@@ -12,5 +12,6 @@ public class App
         System.out.println( "Hello GIT!" );
         System.out.println( "Hello GIT2!" );
         System.out.println( "Hello GIT3!" );
+        System.out.println( "Hello hot-fix" );
     }
 }
